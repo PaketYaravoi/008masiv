@@ -11,21 +11,26 @@
 
 
 Console.Clear();
-
-Console.WriteLine("ВВедите число, я покажу все четные числа на пути от "одного" до числа "n"!!!");
-
+Console.WriteLine("Введите любое число! После чего программа, найдет все четные числа, от '0' до числа 'N' ");
 Console.Write("Введите число: ");
 
 string input = Console.ReadLine();  
-int number1 = int.Parse(input);
-
+int number1 = int.Parse(input); 
 Console.WriteLine($"Число: {number1}");
 
-if(number1 % 2 == 0)
+int count = 1;
+Console.Clear();
+
+Console.WriteLine($"Все четные числа от 0 до числа {number1}:");
+
+while(count <= number1 )
 {
-    Console.WriteLine($"Число: {number1} четное");
+    if (count % 2 == 0)
+    Console.WriteLine($" {count}");
+    
+    count ++;
 }
-else
-{
-    Console.WriteLine($"Число: {number1} нечетное");
-}
+
+    
+
+

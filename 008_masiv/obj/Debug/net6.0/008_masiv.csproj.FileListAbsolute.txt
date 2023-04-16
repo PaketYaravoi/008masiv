@@ -3,3 +3,13 @@ C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.GeneratedMSBuildEditorConfig.
 C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.AssemblyInfoInputs.cache
 C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.AssemblyInfo.cs
 C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.csproj.CoreCompileInputs.cache
+C:\Gb\tesk008\008_masiv\bin\Debug\net6.0\008_masiv.exe
+C:\Gb\tesk008\008_masiv\bin\Debug\net6.0\008_masiv.deps.json
+C:\Gb\tesk008\008_masiv\bin\Debug\net6.0\008_masiv.runtimeconfig.json
+C:\Gb\tesk008\008_masiv\bin\Debug\net6.0\008_masiv.dll
+C:\Gb\tesk008\008_masiv\bin\Debug\net6.0\008_masiv.pdb
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.dll
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\refint\008_masiv.dll
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.pdb
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.genruntimeconfig.cache
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\ref\008_masiv.dll
