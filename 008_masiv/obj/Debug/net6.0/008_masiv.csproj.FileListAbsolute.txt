@@ -1,0 +1,5 @@
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.csproj.AssemblyReference.cache
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.AssemblyInfoInputs.cache
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.AssemblyInfo.cs
+C:\Gb\tesk008\008_masiv\obj\Debug\net6.0\008_masiv.csproj.CoreCompileInputs.cache
